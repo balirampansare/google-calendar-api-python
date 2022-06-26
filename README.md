@@ -1,6 +1,6 @@
 # google-calendar-api-python
 
-Want to integrate gooogle calendar api in your application?  [Link](https://developers.google.com/calendar/api)
+Want to integrate google calendar api in your application?  [Link](https://developers.google.com/calendar/api)
 
 At the end you will know how to create, update, delete the calendars and events.
 
