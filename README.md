@@ -1,7 +1,7 @@
 <h1 align="center">Google Calendar API Using Python</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=whit" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 Want to integrate google calendar api in your application?  [Link](https://developers.google.com/calendar/api)
 
