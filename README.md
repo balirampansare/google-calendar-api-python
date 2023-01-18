@@ -3,7 +3,8 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
-Want to integrate google calendar api in your application?  [Link](https://developers.google.com/calendar/api)
+
+Want to integrate google calendar api in your application? [Link](https://developers.google.com/calendar/api)
 
 At the end you will know how to create, update, delete the calendars and events.
 
